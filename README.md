@@ -9,8 +9,8 @@ Our music creation app is a portable digital music studio that allows users to p
   <img src="https://github.com/user-attachments/assets/98a54f1b-7eca-42d2-a770-58a4768146e9" alt="WhatsApp Image Jan 7 2025" width="200" />
   <img src="https://github.com/user-attachments/assets/a669d13d-0409-48ae-bdd8-546d683d6f33" alt="WhatsApp Image Jan 7 2025 (5)" width="200" />
   <img src="https://github.com/user-attachments/assets/127b6820-1bb9-4954-acf6-8e28aa3b97ad" alt="WhatsApp Image Jan 7 2025 (4)" width="200" />
-  <img src="https://github.com/user-attachments/assets/ac1255ec-49fc-4871-b0aa-708718b62b87" alt="WhatsApp Image Jan 7 2025 (3)" width="400" />
   <img src="https://github.com/user-attachments/assets/cd83feec-4ef6-40aa-a40f-969f24829740" alt="WhatsApp Image Jan 7 2025 (2)" width="200" />
+  <img src="https://github.com/user-attachments/assets/ac1255ec-49fc-4871-b0aa-708718b62b87" alt="WhatsApp Image Jan 7 2025 (3)" width="400" />
   <img src="https://github.com/user-attachments/assets/dae3d97a-c8c0-48f2-9d7d-e88896ba871b" alt="WhatsApp Image Jan 7 2025 (1)" width="400" />
 
 </div>
