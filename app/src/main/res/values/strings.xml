@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="onBoardingTitle1">Play music</string>
+    <string name="onBoardingText1">Use the piano and drums to play \n music and tunes that you like</string>
+    <string name="onBoardingTitle2">Record songs</string>
+    <string name="onBoardingText2">Have fun recording music as you \n listen to them back whenever you like</string>
+    <string name="onBoardingTitle3">Be Creative</string>
+    <string name="onBoardingText3">Use your imagination and go wild \n with your creativity</string>
+</resources>
